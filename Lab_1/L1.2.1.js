@@ -1,3 +1,4 @@
+'use strict';
 
 const arr = [
     true, false, true, false,
