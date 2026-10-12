@@ -6,10 +6,5 @@
 
 
 * [✅] [Exercise DataTypes](https://github.com/HowProgrammingWorks/DataTypes/blob/master/Exercises.ua.md) - [Lab_1](https://github.com/safonenkoviktoriiaim64/LabsForFundamentalsOfProgramming/tree/main/Lab_1)
-* [✅] [Exercise Reusable](#) - [OPLab2](#)
-* [✅] [Exercise Function](#) - [OPLab3](#)
-* [⛔] [Exercise Iteration](#)
-* [⛔] [Exercise Closure](#)
-* [⛔] [Exercise Composition](#)
-* [⛔] [Exercise Arrays](#)
-* [⛔] [Exercise HigherOrderFunction](#)
+* [✅] [Exercise Reusable](https://github.com/HowProgrammingWorks/Reusable/blob/master/Exercises.ua.md) - [OPLab2](#)
+* [✅] [Exercise Function](https://github.com/HowProgrammingWorks/Function/blob/master/Exercises.ru.md) - [OPLab3](#)
