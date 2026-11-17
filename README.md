@@ -9,7 +9,7 @@
 * [✅] [Exercise Reusable](https://github.com/HowProgrammingWorks/Reusable/blob/master/Exercises.ua.md) - [Lab_2](https://github.com/safonenkoviktoriiaim64/LabsForFundamentalsOfProgramming/tree/main/Lab_2)
 * [✅] [Exercise Function](https://github.com/HowProgrammingWorks/Function/blob/master/Exercises.ru.md) - [Lab_3](https://github.com/safonenkoviktoriiaim64/LabsForFundamentalsOfProgramming/tree/main/Lab_3)
 * [✅] [Exercise Iteration](https://github.com/HowProgrammingWorks/Iteration/blob/master/Exercises.ru.md) - [Lab_4]
-* [✅] [Exercise Closure]() - [Lab_5]
-* [✅] [Exercise Composition]() - [Lab_6]
-* [✅] [Exercise Arrays]() - [Lab_7]
-* [✅] [Exercise HigherOrderFunction]() - [Lab_8]
+* [✅] [Exercise Closure](https://github.com/HowProgrammingWorks/Closure/blob/master/Exercises.ru.md) - [Lab_5]
+* [✅] [Exercise Composition](https://github.com/HowProgrammingWorks/Composition/blob/master/Exercises.ru.md) - [Lab_6]
+* [✅] [Exercise Arrays](https://github.com/HowProgrammingWorks/Arrays/blob/master/Exercises.en.md) - [Lab_7]
+* [✅] [Exercise HigherOrderFunction](https://github.com/HowProgrammingWorks/HigherOrderFunction/blob/master/Exercises.en.md) - [Lab_8]
